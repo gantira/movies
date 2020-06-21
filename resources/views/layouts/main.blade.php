@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="/css/main.css">
     <livewire:styles>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.3.5/dist/alpine.min.js" defer></script>
 </head>
 
 <body class="font-sans bg-gray-900 text-white">
